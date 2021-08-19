@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **daveyashrakesh@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/yash dave" target="blank">
     <img align="left" alt="Yash Dave" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
@@ -19,7 +21,7 @@
 </a>
 <a href="https://www.hackerrank.com/yash dave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yash dave" height="30" width="40" /></a>
 </p>
-<h3 align="left">Connect with me:</h3>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
