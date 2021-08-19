@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/Yash Dave" target="blank">
+<a href="https://www.linkedin.com/in/yash-dave-408976199" target="blank">
     <img align="left" alt="Yash Dave" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
 </a>
 <a href="https://instagram.com/yash_r_dave" target="blank">
