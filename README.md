@@ -1,4 +1,4 @@
-<img align="center" src="https://www.canva.com/design/DAEcr0C1h0g/share/preview?token=oHgM3UyqwInLMPaHnnZ5Dg&role=EDITOR&utm_content=DAEcr0C1h0g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
+<img align="center" src="Yash-dave.png">
 <h1 align="center">Hi 👋, I'm Yash dave</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
