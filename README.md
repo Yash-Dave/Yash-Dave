@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yash-Dave](https://github.com/Yash-Dave)
+- 👨‍💻 All of my projects are available at [Website](yashdave.tech)
 
 - 📫 How to reach me **daveyashrakesh@gmail.com**
 
