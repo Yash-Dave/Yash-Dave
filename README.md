@@ -1,10 +1,10 @@
 <img align="center" src="YashDave1.png">
 <h1 align="center">Hi 👋, I'm Yash dave</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yash-dave&label=Profile%20views&color=0e75b6&style=flat" alt="yash-dave" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Machine Learning and Pattern Recognition**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yash-Dave](https://github.com/Yash-Dave)
 
