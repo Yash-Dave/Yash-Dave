@@ -1,4 +1,4 @@
-<img align="center" src="YashDave.png">
+<img align="center" src="YashDave1.png">
 <h1 align="center">Hi 👋, I'm Yash dave</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
